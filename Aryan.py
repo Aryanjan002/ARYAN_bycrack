@@ -1,4 +1,4 @@
- Aryanhacker.py
+
 @@ -1,444 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
